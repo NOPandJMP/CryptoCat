@@ -20,7 +20,7 @@
 Как пример, в России есть метод шифрования "Кузнечик", который был разработан ФСБ, он в априори считается не безопасным, но такие методы использует не только России, в Америки это использует АНБ, в любой момент по запросу компания будет вынуждена выдать все данные по определённому пользователю, либо же если использовать методы шифрования из стандартов, спецслужбам даже не нужны никакие запросы, они создают эти методы шифрования изначально с уязвимостями, поэтому они могут сами смотреть и получать информацию, когда им потребуется.
 Я считаю, что каждый человек имеет право на конфиденциальность переписки, но в наше время это почти невозможно.
 
-картинка
+![alt text](https://github.com/NOPandJMP/CryptoCat/blob/master/img/rus.jpg?raw=true)
 
 Поэтому я решил сделать свой небольшой чат.
 
@@ -509,7 +509,7 @@ We could go on for a long time. But all of them are insecure, primarily because 
 As an example, in Russia, there is the "Grasshopper" encryption method, which was developed by the FSB, it is a priori considered not secure, but not only Russia uses such methods, in America the NSA uses it, at any time on request the company will be forced to give out all the data on a certain user, or if you use encryption methods from the standards, the intelligence services do not even need any requests, they create these encryption methods initially with vulnerabilities, so they can look and get information themselves when they need.
 I think everyone has a right to privacy of correspondence, but it's almost impossible these days.
 
-picture
+![alt text](https://github.com/NOPandJMP/CryptoCat/blob/master/img/eng.jpg?raw=true)
 
 So I decided to make my own little chat room.
 
